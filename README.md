@@ -22,5 +22,3 @@ The main objective of this project is to understand Python programming concepts 
 ## Purpose
 This project was developed as part of academic learning and skill development in Python programming.
 
-## Author
-Mantram Singh Panwar
